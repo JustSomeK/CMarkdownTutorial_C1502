@@ -8,7 +8,7 @@
 > This is a quote with >
 >> subquote time
 
-##Dot Points
+## Dot Points
 - This is a dotpoint, done with either -,*,+
 	- Tab in to indent text
 

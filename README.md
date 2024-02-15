@@ -46,6 +46,13 @@ print.EatMyAss.png
 tildes also work
 ```
 
+```
+Push instructions
+git add .
+git commit -m "Message"
+git push
+```
+
 
 
 

@@ -9,7 +9,7 @@
 >> subquote time
 
 ## Dot Points
-- This is a dotpoint, done with either -,*,+
+- %red% This is a dotpoint, done with either -,*,+
 	- Tab in to indent text
 
 ## Line Breaks/Paragraphs
